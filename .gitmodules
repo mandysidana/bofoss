@@ -1,0 +1,8 @@
+[submodule "bofoss.com/mandysidana.github.io"]
+	path = bofoss.com/mandysidana.github.io
+	url = https://github.com/mandysidana/mandysidana.github.io.git
+	branch = main
+[submodule "bofoss.com/public"]
+	path = bofoss.com/public
+	url = https://github.com/mandysidana/mandysidana.github.io.git
+	branch = main
