@@ -6,3 +6,7 @@
 	path = bofoss.com/public
 	url = https://github.com/mandysidana/mandysidana.github.io.git
 	branch = main
+[submodule "bofoss.com/themes/blowfish"]
+	path = bofoss.com/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
