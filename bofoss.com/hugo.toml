@@ -1,4 +1,4 @@
-baseURL = 'https://mandysidana.github.io/'
+baseURL = 'https://mandysidana.com/'
 languageCode = 'en-us'
 title = 'The Business of Free & Open Source Software'
 theme = 'blowfish'

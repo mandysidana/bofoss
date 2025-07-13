@@ -1,0 +1,20 @@
+/* Custom styles for BOFOSS website */
+
+/* Override prose text alignment for specific sections */
+.prose .left-align {
+  text-align: left !important;
+}
+
+/* Ensure lists are left-aligned */
+.prose ul, .prose ol {
+  text-align: left;
+}
+
+/* Override any center alignment from prose */
+.prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+  text-align: left;
+}
+
+.prose p {
+  text-align: left;
+} 
