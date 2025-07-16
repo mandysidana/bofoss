@@ -25,6 +25,7 @@ title = "The Business of Free & Open Source Software"
   links = [
     { linkedin = "https://linkedin.com/in/mandysidana" },
     { medium = "https://medium.com/@mandysidana" },
+    { github = "https://github.com/mandysidana" },
   ]
 
 # [params.author]
