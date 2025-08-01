@@ -4,6 +4,7 @@ date = 2025-06-13T00:00:00-07:00
 description = "Understanding the Customer Lifetime Value to Customer Acquisition Cost ratio and its critical importance in SaaS business growth."
 tags = ["saas", "metrics", "growth", "business", "cltv", "cac"]
 categories = ["business"]
+featureimage = "https://miro.medium.com/v2/resize:fit:1400/1*EDPtVv9SUhlCpDW5FaIsjw.png"
 +++
 
 # The CLTV/CAC Ratio: The Single Most Important SaaS Growth Metric

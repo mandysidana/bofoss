@@ -1,6 +1,7 @@
 +++
 date = '2025-07-09T19:12:37-07:00'
 title = 'Is SSO an Enterprise Tier feature?'
+featureimage = "https://miro.medium.com/v2/resize:fit:700/1*LQ4mkG8IDyrgmQELFoWmQg.jpeg"
 +++
 
 

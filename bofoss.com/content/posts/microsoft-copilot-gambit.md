@@ -4,6 +4,7 @@ date = 2025-05-22T00:00:00-07:00
 description = "We had some exciting news yesterday about Microsoft's moves in the AI coding space. This post delves into the strategy and understands the implications."
 tags = ["microsoft", "copilot", "ai", "open-source", "strategy", "competition"]
 categories = ["technology"]
+featureimage = "https://miro.medium.com/v2/resize:fit:1400/1*V88iPFrz2OVVpFAKD4p3qg.png"
 +++
 
 # Open Source Copilot Gambit: Microsoft's Two-Pronged Plan to Stifle Competitors
