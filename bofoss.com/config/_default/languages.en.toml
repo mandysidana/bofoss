@@ -18,15 +18,16 @@ title = "The Business of Free & Open Source Software"
 [params.author]
   name = "Mandy Sidana"
   email = "mandysidana@outlook.com"
-  # image = "img/author.png"
+  image = "images/mandy-sidana.jpeg"
   imageQuality = 96
-  headline = "Open Source Business Strategist"
+  headline = "Helping founders and product leaders thrive in the open source"
   bio = "Exploring the intersection of business strategy and open source software development"
   links = [
     { linkedin = "https://linkedin.com/in/mandysidana" },
     { medium = "https://medium.com/@mandysidana" },
     { github = "https://github.com/mandysidana" },
     { goodreads = "https://www.goodreads.com/user/show/24011972-mandy-sidana" },
+    { email = "mailto:mandysidana@proton.me"},
   ]
 
 # [params.author]
